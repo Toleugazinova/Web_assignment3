@@ -1,5 +1,6 @@
 Amina Toleugazinova IT-2513
 Assignment 3
+https://toleugazinova.github.io/Web_assignment3/
 
 Part 1
 Task 0
@@ -8,6 +9,7 @@ Used CSS media queries to adjust font sizes for different devices, ensuring typo
 Task 1
 Designed a layout featuring three boxes in a row.
 Configured the layout using only CSS media queries so that all three boxes display side by side on desktop, two boxes appear in a row on tablet, and the boxes stack vertically on mobile.
+
 ![alt text](1.png)
 ![alt text](2.png)
 ![alt text](3.png)
